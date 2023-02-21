@@ -1,0 +1,11 @@
+phpunit
+phpunit.xml.dist
+.phpcs.xml.dist
+tests
+bin
+build_release.sh
+.vscode
+
+WP-Editor.md/
+githuber-md/
+*.zip
